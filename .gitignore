@@ -3,8 +3,12 @@
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
+<<<<<<< HEAD
 .csv
 .idea/
+=======
+
+>>>>>>> e2af14235cbbc944550678702d5f9e3fc6c2d75e
 ### Eclipse ###
 .apt_generated
 .classpath
@@ -54,6 +58,9 @@ bin/
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 >>>>>>> 425e459299d82044a9e1b99dae02ecf684779a15
+<<<<<<< HEAD
 /source/data.csv
 /source/test_1w.csv
 /source/test_insert_load.csv
+=======
+>>>>>>> e2af14235cbbc944550678702d5f9e3fc6c2d75e
